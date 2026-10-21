@@ -1,7 +1,4 @@
-<!--
-  Ahoura | GitHub Profile README
-  Repository: ahoura-coder/ahoura-coder
--->
+ <!-- README.md — ahoura-coder/ahoura-coder -->
 
 <div align="center">
 
@@ -31,16 +28,17 @@
 
 Hey! I'm **Ahoura**, a developer focused on building full-stack web applications with modern JavaScript and TypeScript technologies.
 
-I enjoy working across the entire development process — from designing responsive interfaces and building reusable components to developing backend services, designing APIs, and integrating relational databases.
+I work across the development process — from building responsive user interfaces and reusable components to designing backend services, REST APIs, and relational data models.
 
-My approach is centered around **practical engineering, maintainable code, thoughtful architecture, and continuous improvement**. I learn by building projects that bring multiple technologies together to solve real problems.
+My approach emphasizes practical engineering, maintainable code, thoughtful architecture, and continuous improvement. I enjoy building complete applications that connect frontend experiences with reliable backend systems.
 
 - **Primary focus:** Full-Stack Web Development
-- **Frontend:** React, Next.js, TypeScript
+- **Frontend:** React, Next.js, TypeScript, JavaScript
 - **Backend:** Node.js, Express.js, NestJS
-- **Database:** PostgreSQL, SQL
-- **Currently building:** Full-stack applications and developer projects
-- **Open to:** Interesting projects, collaboration, and international remote opportunities
+- **Databases:** PostgreSQL, SQL, Redis
+- **Data access:** Prisma, TypeORM
+- **Engineering workflow:** Git, Docker, automated testing, CI
+- **Open to:** Freelance projects, client work, and international collaboration
 
 ---
 
@@ -70,15 +68,21 @@ My approach is centered around **practical engineering, maintainable code, thoug
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
 </p>
 
-### Development Workflow
+### Testing, Infrastructure & Workflow
 
 <p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Supertest-303030?style=for-the-badge" alt="Supertest" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
@@ -89,25 +93,47 @@ My approach is centered around **practical engineering, maintainable code, thoug
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛍️ Nexora</h3>
+      <p>A full-stack commerce application focused on product discovery, order processing, inventory management, and reliable backend workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Express.js-303030?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      </p>
+      <p><a href="https://github.com/Ahoura-CodeR/nexora"><strong>Explore Repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>⚡ FlowForge</h3>
-      <p>A full-stack project management application designed around structured workflows, project collaboration, and task organization.</p>
+      <p>A full-stack project management application built around project collaboration, task organization, role-based access control, and structured workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
       </p>
-      <p><a href="https://github.com/ahoura-coder/flowforge"><strong>Explore Repository →</strong></a></p>
+      <p><a href="https://github.com/Ahoura-CodeR/flowforge"><strong>Explore Repository →</strong></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ TechVerse</h3>
-      <p>A product discovery interface focused on responsive layouts, category navigation, product filtering, sorting, pagination, and dynamic product details.</p>
+      <h3>💻 TechVerse</h3>
+      <p>A product discovery interface featuring responsive layouts, category navigation, product filtering, sorting, pagination, and dynamic product details.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
       </p>
-      <p><a href="https://github.com/ahoura-coder?tab=repositories"><strong>Browse Repositories →</strong></a></p>
+      <p><a href="https://github.com/Ahoura-CodeR/TechVerse"><strong>Explore Repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 What I Build</h3>
+      <p>Custom web applications, responsive interfaces, REST APIs, commerce workflows, admin dashboards, and database-backed features tailored to client requirements.</p>
+      <p><strong>Interested in working together?</strong></p>
+      <p><a href="mailto:ahouracoder@gmail.com"><strong>Discuss a Project →</strong></a></p>
     </td>
   </tr>
 </table>
@@ -116,25 +142,28 @@ My approach is centered around **practical engineering, maintainable code, thoug
 
 ## `04` — Engineering Interests
 
-I focus on strengthening the fundamentals that make web applications reliable and maintainable.
+I focus on the fundamentals that make web applications reliable, maintainable, and useful.
 
 - **Frontend Architecture** — reusable components, responsive interfaces, and organized application structure.
 - **Backend Engineering** — API design, modular services, authentication, authorization, and validation.
-- **Database Design** — relational modeling, SQL queries, and data access patterns.
+- **Database Design** — relational modeling, SQL queries, transactions, and data access patterns.
 - **Type Safety** — using TypeScript to improve maintainability and reduce avoidable runtime errors.
-- **Code Quality** — testing, debugging, clear project structure, and consistent development workflows.
+- **Testing & Reliability** — automated tests, debugging, and consistent development workflows.
+- **Application Security** — access control, input validation, and safer handling of application data.
+
+---
 
 ## `05` — Current Direction
 
-My current direction is to build increasingly complete applications that demonstrate the connection between frontend experience, backend architecture, and data persistence.
+My focus is on building complete applications that connect frontend experience, backend architecture, and persistent data.
 
-I'm particularly interested in improving:
+I'm particularly interested in:
 
-- Scalable application architecture
-- Secure authentication and authorization
-- Automated testing and CI workflows
-- Deployment and production readiness
-- Collaboration and software development best practices
+- Building reliable full-stack applications
+- Designing secure authentication and authorization flows
+- Improving automated testing and CI workflows
+- Preparing applications for deployment and production use
+- Collaborating with clients to turn requirements into working software
 
 ---
 
@@ -166,7 +195,7 @@ I'm particularly interested in improving:
 
 ## `07` — Let's Connect
 
-Have an interesting idea, a project to discuss, or an opportunity to collaborate? Feel free to reach out.
+Have a project in mind, need help building a web application, or want to collaborate? Feel free to reach out.
 
 <div align="center">
 
@@ -185,3 +214,4 @@ Have an interesting idea, a project to discuss, or an opportunity to collaborate
 <sub>Thanks for visiting my profile! ⭐</sub>
 
 </div>
+
